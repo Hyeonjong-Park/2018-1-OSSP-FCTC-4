@@ -36,7 +36,7 @@ void load_sounds(void)
 		//effects[i] = Mix_LoadWAV(EFFECT_FILES[i]);
 	//}
 
-	levelStart = Mix_LoadWAV("sound/sound1.wav");
+	levelStart = Mix_LoadWAV("sound/sound2.wav");
 
 	set_sound_volume(0.5);
 	set_sound_muted(false);
